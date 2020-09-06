@@ -17,4 +17,4 @@ Supported Android Versions
 - Android 4.4. KitKat.
 - Android 10
 
-This was fun project and done in 2016, I lost all the source file only the apk is left that was in my old mobile though of uploading it into my git repo.
+This was fun project and was done in 2016, I lost all the source file only the `apk` is left that too was in my old mobile and thought of uploading it into my git repo.

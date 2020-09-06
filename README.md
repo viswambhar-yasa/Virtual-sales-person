@@ -14,3 +14,6 @@ Supported Android Versions
 - Android 4.0. Ice Cream Sandwich.
 - Android 4.1. Jelly Bean.
 - Android 4.4. KitKat.
+- Android 10
+
+This was fun project and done in 2016, I lost all the source file only the apk is left that was in my old mobile though of uploading it into my git repo.

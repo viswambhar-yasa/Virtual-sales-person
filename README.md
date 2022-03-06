@@ -7,14 +7,10 @@ The Virtual Sales Person application is developed to increase the automation in 
 </p>
 
 Supported Android Versions
-- Android 1.6. Donut.
-- Android 2.1. Eclair.
-- Android 2.2. Froyo.
+
 - Android 2.3. Gingerbread.
 - Android 3.0. Honeycomb.
 - Android 4.0. Ice Cream Sandwich.
 - Android 4.1. Jelly Bean.
 - Android 4.4. KitKat.
 - Android 10
-
-This was a fun project and was done in 2016, I lost all the source file only the `apk` is left that too was in my old mobile and thought of uploading it into my git repo.
